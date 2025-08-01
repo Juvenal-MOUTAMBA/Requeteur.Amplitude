@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Requeteur.Amplitude.Data;
+using Requeteur.Amplitude.Models;
 
 namespace Requeteur.Amplitude.Controllers
 {
@@ -8,6 +9,7 @@ namespace Requeteur.Amplitude.Controllers
     {
         // GET: ConnexionController
         private readonly AgenceRepository _repo;
+        public Agence Agence { get; set; }
 
         public ConnexionController(IConfiguration config)
         {
@@ -19,74 +21,21 @@ namespace Requeteur.Amplitude.Controllers
             var agences = _repo.GetAll();
             return View(agences);
         }
-
-        // GET: ConnexionController/Details/5
-        public ActionResult Details(int id)
+       
+        public IActionResult Quitter()
         {
-            return View();
+            return Content("🔒 Application fermée ou déconnexion simulée.");
         }
-
-        // GET: ConnexionController/Create
-        public ActionResult Create()
+        public IActionResult Login( Agence agence)
         {
-            return View();
-        }
-
-        // POST: ConnexionController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
-            try
+            if (agence == null || string.IsNullOrEmpty(agence.LIB))
             {
-                return RedirectToAction(nameof(Index));
+                Agence = _repo.GetById(agence.AGE);
+                ModelState.AddModelError("", "Nom d'agence et mot de passe requis.");
+                return View("Index", _repo.GetAll());
+                
             }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: ConnexionController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: ConnexionController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: ConnexionController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: ConnexionController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            return View("Home", Agence);
         }
     }
 }

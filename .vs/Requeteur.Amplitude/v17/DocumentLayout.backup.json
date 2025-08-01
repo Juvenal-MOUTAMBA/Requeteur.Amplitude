@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Projets\\Amplitude.Requeteur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\views\\connexion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\views\\connexion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\views\\agence\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\views\\agence\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\controllers\\connexioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\controllers\\connexioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Requeteur.Amplitude\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:39:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABYAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Connexion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Views\\Connexion\\Index.cshtml",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Connexion\\Index.cshtml",
+              "RelativeToolTip": "Requeteur.Amplitude\\Views\\Connexion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T10:46:42.388Z",
+              "WhenOpened": "2025-08-01T13:21:04.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Agence\\Details.cshtml",
-              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Views\\Agence\\Details.cshtml",
-              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Agence\\Details.cshtml",
-              "RelativeToolTip": "Requeteur.Amplitude\\Views\\Agence\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "ConnexionController.cs",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Controllers\\ConnexionController.cs",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Controllers\\ConnexionController.cs",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Controllers\\ConnexionController.cs",
+              "RelativeToolTip": "Requeteur.Amplitude\\Controllers\\ConnexionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T13:17:42.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Requeteur.Amplitude\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T10:30:59.707Z",
+              "WhenOpened": "2025-08-01T10:46:42.388Z",
               "EditorCaption": ""
             }
           ]

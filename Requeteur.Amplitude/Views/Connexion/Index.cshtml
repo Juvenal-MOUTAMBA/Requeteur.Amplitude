@@ -1,0 +1,33 @@
+﻿@model List<Agence>
+@{
+    ViewData["Title"] = "Connexion agence";
+    
+}
+<div class="d-flex justify-content-center align-items-center min-vh-100 bg-light">
+    <div class="card shadow p-4" style="min-width:350px; max-width:400px;">
+        <h2>Choisissez une agence</h2>
+        <form method="post" asp-action="Connecter">
+            <select name="agenceId" class="form-control" required>
+                <option value="">-- Sélectionnez une agence --</option>
+                @foreach (var agence in Model)
+                {
+                    <option value="@agence.AGE">@agence.LIB</option>
+                }
+            </select>
+            <br />
+           @*  <button method="get" type="submit" class="btn btn-primary" asp-action="Login">Se connecter</button>
+            <button method="get" type="submit" class="btn btn-primary" asp-action="Quitter">Déonnecter</button> *@
+            <div class="row">
+                <div class="col text-start">
+                    <button method="get" asp-action="Login" type="submit" class="btn btn-primary">Se connecter</button>
+                </div>
+                <div class="col text-end">
+                    <form >
+                        <button method="get" asp-action="Quitter" type="submit" class="btn btn-danger">Déconnecter</button>
+                    </form>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>
