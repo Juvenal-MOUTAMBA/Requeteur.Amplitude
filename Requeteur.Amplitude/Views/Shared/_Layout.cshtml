@@ -1,10 +1,15 @@
-﻿<!DOCTYPE html>
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+
+@{
+    var libAgence = HttpContextAccessor.HttpContext.Session.GetString("AgenceLib");
+}
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Requeteur.Amplitude</title>
-    <script type="importmap"></script>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Requeteur.Amplitude.styles.css" asp-append-version="true" />
@@ -18,8 +23,17 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between w-100">
+
                     <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="menuUtilisateur" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Sociétariat
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="menuUtilisateur">
+                                <li><a class="dropdown-item" asp-controller="Client" asp-action="Index">Liste des membres</a></li>
+                            </ul>
+                        </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="menuUtilisateur" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Paramètres
@@ -31,10 +45,27 @@
                             </ul>
                         </li>
                     </ul>
+
+                    @if (!string.IsNullOrEmpty(libAgence))
+                    {
+                        <ul class="navbar-nav ms-auto">
+                            <li class="nav-item">
+                                <span class="nav-link text-dark">
+                                     @libAgence
+                                </span>
+                            </li>
+                            <li class="nav-item">
+                                <form asp-controller="Home" asp-action="Logout" method="post" class="d-inline">
+                                    <button type="submit" class="btn btn-sm btn-outline-danger" ">Déconnexion</button>
+                                </form>
+                            </li>
+                        </ul>
+                    }
                 </div>
             </div>
         </nav>
     </header>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -46,6 +77,7 @@
             &copy; 2025 - Requeteur.Amplitude - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

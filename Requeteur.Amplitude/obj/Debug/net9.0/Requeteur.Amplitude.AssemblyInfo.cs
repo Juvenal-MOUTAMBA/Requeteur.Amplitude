@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Requeteur.Amplitude")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e19216b30eadbdab165b5c420ef706ec2c5a8dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61df3a0e608a3cc9d22e237738efee58d791ff22")]
 [assembly: System.Reflection.AssemblyProductAttribute("Requeteur.Amplitude")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Requeteur.Amplitude")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

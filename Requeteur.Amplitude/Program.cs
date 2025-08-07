@@ -1,7 +1,9 @@
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.AddSession(); // dans la section services
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddHttpContextAccessor();
 
 var app = builder.Build();
 
@@ -16,13 +18,16 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+
+app.UseSession();
+
 app.UseAuthorization();
 
 app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Connexion}/{action=Index}/{id?}")
+    pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
 
