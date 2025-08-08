@@ -22,6 +22,7 @@ namespace Requeteur.Amplitude.Controllers
             var agences = _repo.GetAll();
             ViewBag.Agences = new SelectList(agences, "AGE", "LIB");
             ViewBag.AgenceChoisie = HttpContext.Session.GetString("Agence");
+            ViewBag.AgenceLib = HttpContext.Session.GetString("AgenceLib");
 
             return View();
         }

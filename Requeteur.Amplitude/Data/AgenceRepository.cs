@@ -18,7 +18,7 @@
         {
             using (IDbConnection db = new OracleConnection(_connectionString))
             {
-                string sql = "SELECT AGE, LIB FROM newcert.bkage ORDER BY AGE";
+                string sql = "SELECT AGE, LIB FROM mucocertstat.bkage ORDER BY AGE";
                 return db.Query<Agence>(sql).AsList();
             }
         }
@@ -27,7 +27,7 @@
         {
             using (IDbConnection db = new OracleConnection(_connectionString))
             {
-                string sql = "SELECT AGE, LIB FROM newcert.bkage WHERE AGE = :AGE";
+                string sql = "SELECT AGE, LIB FROM mucocertstat.bkage WHERE AGE = :AGE";
                 return db.QueryFirstOrDefault<Agence>(sql, new { AGE = age });
             }
         }
