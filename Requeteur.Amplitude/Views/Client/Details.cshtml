@@ -1,0 +1,27 @@
+﻿@model Requeteur.Amplitude.Models.Client
+
+@{
+    ViewData["Title"] = "Détails du client";
+}
+
+<h2>Détails du client</h2>
+<table class="table table-bordered table-striped">
+    <tbody>
+        <tr><th>CodAge</th><td>@Model.CodAge</td></tr>
+        <tr><th>IDClient</th><td>@Model.IdClient</td></tr>
+        <tr><th>NumeroMembre</th><td>@Model.NumeroMembre</td></tr>
+        <tr><th>TypeClient</th><td>@Model.TypeClient</td></tr>
+        <tr><th>Nom</th><td>@Model.Nom</td></tr>
+        <tr><th>Prénom</th><td>@Model.Prenom</td></tr>
+        <tr><th>RaisonSociale</th><td>@Model.RaisonSociale</td></tr>
+        <tr><th>Sigle</th><td>@Model.Sigle</td></tr>
+        <tr><th>AdresseMail</th><td>@Model.AdresseMail</td></tr>
+        <tr><th>Sexe</th><td>@Model.Sexe</td></tr>
+        <tr><th>DateDeNaissance</th><td>@Model.DateDeNaissance</td></tr>
+        <tr><th>VilleDeNaissance</th><td>@Model.VilleDeNaissance</td></tr>
+        <tr><th>NumeroPieceIdent</th><td>@Model.NumeroPieceIdent</td></tr>
+        <tr><th>DateDelivrancePiece</th><td>@Model.DateDelivrancePiece</td></tr>
+        <tr><th>LieuDelivrancePiece</th><td>@Model.LieuDelivrancePiece</td></tr>
+        <tr><th>DateDeMission</th><td>@Model.DateDeMission</td></tr>        
+    </tbody>
+</table>

@@ -1,0 +1,5 @@
+select  mucocertstat.BKCLI.age as CodAge,mucocertstat.BKCLI.cli as IdClient,mucocertstat.BKCLI.idext as NumeroMembre,nom,pre as Prenom,rso as RaisonSociale,ncp as NumeroCompte,
+ inti as TypCompte,sde as SoldeDisponible,TO_CHAR(mucocertstat.bkcom.dfe, 'DD/MM/YYYY')  AS DateCloture
+from mucocertstat.BKCLI inner join mucocertstat.bkcom on mucocertstat.BKCLI.cli=mucocertstat.bkcom.cli
+where mucocertstat.BKCom.cli<>' ' and mucocertstat.BKCLI.age='00463' and inti='PLAN EPARGNE RETRAITE'
+order by mucocertstat.BKCLI.idext desc

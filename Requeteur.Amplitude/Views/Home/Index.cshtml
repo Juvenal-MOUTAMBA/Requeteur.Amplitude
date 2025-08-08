@@ -2,17 +2,6 @@
     ViewBag.Title = "Accueil";
 }
 
-<!-- Menu principal -->
-@* <h2>Bienvenue</h2>
-
-@if (!string.IsNullOrEmpty(ViewBag.AgenceChoisie))
-{
-    <p>Agence connectée : <strong>@ViewBag.AgenceChoisie</strong></p>
-
-    <form asp-action="Logout" method="post">
-        <button class="btn btn-danger">Déconnexion</button>
-    </form>
-} *@
 
 <!-- MODALE AGENCE -->
 @if (string.IsNullOrEmpty(ViewBag.AgenceChoisie))

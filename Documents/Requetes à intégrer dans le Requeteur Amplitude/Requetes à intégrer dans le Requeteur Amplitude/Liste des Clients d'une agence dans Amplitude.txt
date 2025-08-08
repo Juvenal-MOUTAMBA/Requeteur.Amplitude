@@ -1,0 +1,9 @@
+select age as CodAge,mucocertstat.BKCLI.cli as IdClient,idext as NumeroMembre,tcli,nom,pre,rso as RaisonSociale,sig as Sigle,email as AdresseMail, sext as Sexe,
+TO_CHAR(dna, 'DD/MM/YYYY') as DateDeNaissance, viln as VilleDeNaissance,nid as NumeroPieceIdent,
+      TO_CHAR(did, 'DD/MM/YYYY')  as DateDelivrancePiece,lid as LieuDelivrancePiece, TO_CHAR(Vald, 'DD/MM/YYYY')  as DateDeMission
+       from mucocertstat.BKCLI 
+                        left join mucocertstat.bkemacli on mucocertstat.bkemacli.cli=mucocertstat.BKCLI.cli
+                        left join mucocertstat.bkicli on mucocertstat.bkicli.cli=mucocertstat.BKCLI.cli
+       where age='00463' 
+       order by idext asc
+

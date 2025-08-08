@@ -1,0 +1,70 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    var libAgence = HttpContextAccessor.HttpContext.Session.GetString("AgenceLib");
+}
+
+<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+    <!-- Branding -->
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" asp-controller="Home" asp-action="Index">
+        <div class="sidebar-brand-icon">
+            <i class="fas fa-university"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">Requêteur</div>
+    </a>
+
+    <hr class="sidebar-divider my-0">
+
+    <!-- Tableau de bord -->
+    <li class="nav-item active">
+        <a class="nav-link" asp-controller="Home" asp-action="Index">
+            <i class="fas fa-fw fa-tachometer-alt"></i>
+            <span>Tableau de bord</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider">
+
+    <!-- Gestion -->
+    <div class="sidebar-heading">
+        Paramètres
+    </div>
+
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Utilisateurs" asp-action="Index">
+            <i class="fas fa-fw fa-users"></i>
+            <span>Utilisateurs</span>
+        </a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Agence" asp-action="Index">
+            <i class="fas fa-fw fa-city"></i>
+            <span>Agences</span>
+        </a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link" asp-controller="Connexion" asp-action="Index">
+            <i class="fas fa-fw fa-sign-in-alt"></i>
+            <span>Connexion</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider">
+
+    <!-- Footer agence + bouton déconnexion -->
+    <div class="text-center text-white mx-3 my-2 small">
+        <strong>Agence:</strong> @libAgence
+    </div>
+
+    <div class="text-center">
+        <form asp-controller="Home" asp-action="Logout" method="post">
+            <button type="submit" class="btn btn-sm btn-danger mb-3">
+                <i class="fas fa-sign-out-alt"></i> Déconnexion
+            </button>
+        </form>
+    </div>
+
+</ul>

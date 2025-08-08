@@ -1,22 +1,23 @@
 ﻿@model List<Agence>
 
-<h2>Liste des agences</h2>
-<table class="table table-bordered">
-    <thead>
-        <tr>
-            <th>Code</th>
-            <th>Libellé</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var agence in Model)
-        {
+<div class="container mt-4">
+    <h3 class="mb-3">Liste des agences</h3>
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
             <tr>
-                <td>@agence.AGE</td>
-                <td>@agence.LIB</td>
+                <th>Code</th>
+                <th>Nom</th>
             </tr>
-        }
-    </tbody>
-</table>
-
+        </thead>
+        <tbody>
+            @foreach (var agence in Model)
+            {
+                <tr>
+                    <td>@agence.AGE</td>
+                    <td>@agence.LIB</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
 

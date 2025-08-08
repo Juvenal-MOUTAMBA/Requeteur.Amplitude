@@ -1,135 +1,81 @@
-﻿@model List<Client>
-@{
-    ViewData["Title"] = "Client";
-}
-<div>
-<h1>Client</h1>
-<button>Exporter</button>
+﻿@model List<Client>  
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor  
+@{  
+    ViewData["Title"] = "Clients";  
+}  
+
+@* <div class="d-flex justify-content-between align-items-center mb-3">  
+    <h1 class="h3">Liste des clients</h1>  
+    <a class="btn btn-primary" asp-action="Create"><i class="bi bi-plus"></i> Nouveau client</a>  
+    <a class="btn btn-primary" asp-action="Create"><i class="bi btn-icon-split"></i> Exporter</a>
+</div>   *@
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="h3 mb-0">Liste des clients</h1>
+    <div class="d-flex gap-2">
+        <a class="btn btn-primary" asp-action="Create"><i class="bi bi-plus"></i> Nouveau client</a>
+        <a class="btn btn-primary" asp-controller="Client" asp-action="Export"><i class="bi bi-download"></i> Exporter</a>
+    </div>
 </div>
-<table class="table table-bordered">
-    <thead>
-        <tr>
+
+<form method="get" class="mb-3">  
+    <div class="input-group">  
+        <input type="text"  
+               name="search"  
+               class="form-control"  
+               placeholder="Rechercher un client..."  
+               value="@HttpContextAccessor.HttpContext.Request.Query["search"]" />  
+        <button class="btn btn-outline-secondary" type="submit"><i class="bi bi-search"></i> Rechercher</button>  
+    </div>  
+</form>  
+
+<table class="table table-striped table-bordered table-responsive">  
+    <thead class="table-dark">  
+        <tr>  
+            <th>CodeAgence</th>
             <th>IDClient</th>
-            <th> Nom </th>
-            <th> Prénom </th>
-            <th> TypeClient </th>
-            <th> lib </th>            
-            <th> Sexe </th>
-            <th> Date de naissance </th>
-            <th> Ville </th>
-            <th> Département </th>
-            <th> Pays </th>
-            <th> locn </th>
-            <th> tid </th>
-            <th> nid </th>
-            <th> did </th>
-            <th> lid </th>
-            <th> vid </th>
-            <th> sit </th>
-            <th> reg </th>
-            <th> capj </th>
-            <th> dcapj </th>
-            <th> sitj </th>
-            <th> dsitj </th>
-            <th> nidf </th>
-            <th> Agence </th>
-            <th> ges </th>
-            <th> qua </th>
-            <th> tax </th>
-            <th> catl </th>
-            <th> seg </th>
-            <th> lter </th>
-            <th> catn </th>
-            <th> sec </th>
-            <th> lienbq </th>
-            <th> aclas </th>
-            <th> maclas </th>
-            <th> emtit </th>
-            <th> lang </th>
-            <th> nat </th>
-            <th> res </th>
-            <th> ichq </th>
-            <th> dichq </th>
-            <th> icb </th>
-            <th> dicb </th>
-            <th> epu </th>
-            <th> utic </th>
-            <th> uti </th>
-            <th> dou </th>
-            <th> dmo </th>
-            <th> ord </th>
-            <th> catr </th>
-            <th> nomrest </th>
-            <th> regn </th>
-            <th> rrc </th>
-            <th> dvrrc </th>
-            <th> uti_vrrc </th>
-            <th> idext </th>
-            <th> opetr </th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var clt in Model)
-        {
-            <tr>
-                <td>@clt.cli</td>
-                <td>@clt.nom </td>
-                <td>@clt.pre </td>
-                <td>@clt.tcli </td>
-                <td>@clt.lib </td>                
-                <td>@clt.sext </td>
-                <td>@clt.dna </td>
-                <td>@clt.viln </td>
-                <td>@clt.depn </td>
-                <td>@clt.payn </td>
-                <td>@clt.locn </td>
-                <td>@clt.tid </td>
-                <td>@clt.nid </td>
-                <td>@clt.did </td>
-                <td>@clt.lid </td>
-                <td>@clt.vid </td>
-                <td>@clt.sit </td>
-                <td>@clt.reg </td>
-                <td>@clt.capj </td>
-                <td>@clt.dcapj </td>
-                <td>@clt.sitj </td>
-                <td>@clt.dsitj </td>
-                <td>@clt.nidf </td>
-                <td>@clt.age </td>
-                <td>@clt.ges </td>
-                <td>@clt.qua </td>
-                <td>@clt.tax </td>
-                <td>@clt.catl </td>
-                <td>@clt.seg </td>
-                <td>@clt.lter </td>
-                <td>@clt.catn </td>
-                <td>@clt.sec </td>
-                <td>@clt.lienbq </td>
-                <td>@clt.aclas </td>
-                <td>@clt.maclas </td>
-                <td>@clt.emtit </td>
-                <td>@clt.lang </td>
-                <td>@clt.nat </td>
-                <td>@clt.res </td>
-                <td>@clt.ichq </td>
-                <td>@clt.dichq </td>
-                <td>@clt.icb </td>
-                <td>@clt.dicb </td>
-                <td>@clt.epu </td>
-                <td>@clt.utic </td>
-                <td>@clt.uti </td>
-                <td>@clt.dou </td>
-                <td>@clt.dmo </td>
-                <td>@clt.ord </td>
-                <td>@clt.catr </td>
-                <td>@clt.nomrest </td>
-                <td>@clt.regn </td>
-                <td>@clt.rrc </td>
-                <td>@clt.dvrrc </td>
-                <td>@clt.uti_vrrc </td>
-                <td>@clt.idext </td>
-                <td>@clt.opetr </td>
-            </tr>
-        }
-    </tbody>
+            <th>NumeroMembre</th>
+            <th>TypeClient</th>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>RaisonSociale</th>
+            <th>Sigle</th>
+            <th>AdresseMail</th>
+            <th>Sexe</th>
+            <th>DateDeNaissance</th>
+            <th>VilleDeNaissance</th>
+            <th>NumeroPieceIdent</th>
+            <th>DateDelivrancePiece</th>
+            <th>DateDelivrancePiece</th>
+            <th>LieuDelivrancePiece</th>
+            <th>DateDeMission</th>
+        </tr>  
+    </thead>  
+    <tbody>  
+        @foreach (var clt in Model)  
+        {  
+            <tr>  
+                <td>@clt.CodAge</td>  
+                <td>@clt.IdClient</td>  
+                <td>@clt.NumeroMembre</td>  
+                <td>@clt.TypeClient</td>  
+                <td>@clt.Nom</td>  
+                <td>@clt.Prenom</td>  
+                <td>@clt.RaisonSociale</td>  
+                <td>@clt.Sigle</td>
+                <td>@clt.AdresseMail</td>
+                <td>@clt.Sexe</td>
+                <td>@clt.DateDeNaissance</td>
+                <td>@clt.VilleDeNaissance</td>
+                <td>@clt.NumeroPieceIdent</td>
+                <td>@clt.DateDelivrancePiece</td>
+                <td>@clt.LieuDelivrancePiece</td>
+                <td>@clt.DateDeMission</td>
+                <td>  
+                    <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@clt.IdClient"><i class="bi bi-eye"></i></a>  
+                    <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@clt.IdClient"><i class="bi bi-pencil"></i></a>  
+                    <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@clt.IdClient"><i class="bi bi-trash"></i></a>  
+                </td>  
+            </tr>  
+        }  
+    </tbody>  
 </table>
