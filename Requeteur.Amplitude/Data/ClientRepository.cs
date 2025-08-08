@@ -35,18 +35,7 @@
                 return db.Query<Client>(sql).AsList();
             }
         }
-        //public  Client Client_By_ID(Agence agence,string cli)
-        //{
-        //    using (IDbConnection db = new OracleConnection(_connectionString))
-        //    {
-        //        string sql = "SELECT    cli, nom, tcli,lib, pre, sext,TO_CHAR(dna,'DD-MM-YYYY'), viln, depn, payn, locn, tid, nid, did, lid,vid, sit, reg, capj, dcapj, sitj, dsitj,"+""+
-        //              "nidf,age,ges,qua,tax,catl,seg,lter,catn,sec,lienbq,aclas,maclas,emtit,lang,nat,res,ichq,dichq,icb,dicb,epu,utic,uti,dou,dmo," + "" +
-        //              "ord,catr,nomrest,regn,rrc,dvrrc,uti_vrrc,idext,opetr FROM CSTATSEL.bkcli where age = '" + agence.AGE+"' and(cli = '"+cli+"' or nom = '"+cli+"')";
-        //        #pragma warning disable CS8603 // Existence possible d'un retour de référence null.
-        //        return db.Query<Client>(sql).FirstOrDefault();
-        //        #pragma warning restore CS8603 // Existence possible d'un retour de référence null.
-        //    }
-        //}
+       
         public Client Client_By_ID(Agence agence, string cli)
         {
             using (IDbConnection db = new OracleConnection(_connectionString))
