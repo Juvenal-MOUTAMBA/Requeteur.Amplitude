@@ -13,13 +13,16 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Requeteur.Amplitude.styles.css" asp-append-version="true" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">    
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-controller="Home" asp-action="Index">Requêteur.Amplitude</a>
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                     @* <img src="~/images/Icone.jpg" alt="Logo" style="height:40px; margin-right:10px;" /> *@
+                    Requêteur.Amplitude
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -30,28 +33,28 @@
                             <a class="nav-link dropdown-toggle" href="#" id="societariatDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sociétariat</a>
                             <ul class="dropdown-menu" aria-labelledby="societariatDropdown">
                                 <li><a class="dropdown-item" asp-controller="Client" asp-action="Index">Liste des sociétariats</a></li>
-                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="Create">Les encours</a></li>
-                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="Create">Les adhésions mensuelles</a></li>
+                                <li><a class="dropdown-item" asp-controller="Compte" asp-action="Index">Les encours</a></li>
+                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="">Les adhésions mensuelles</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="societariatDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Crédits</a>
                             <ul class="dropdown-menu" aria-labelledby="societariatDropdown">
-                                <li><a class="dropdown-item" asp-controller="Client" asp-action="Index">les prêts</a></li>
-                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="Create">Production</a></li>
-                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="Create">Les OCC</a></li>
+                                <li><a class="dropdown-item" asp-controller="Client" asp-action="">les prêts</a></li>
+                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="">Production</a></li>
+                                <li><a class="dropdown-item" asp-controller="Societariat" asp-action="">Les OCC</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="societariatDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services digitaux</a>
                             <ul class="dropdown-menu" aria-labelledby="societariatDropdown">
-                                <li><a class="dropdown-item" asp-controller="Client" asp-action="Index">les encours</a></li>
+                                <li><a class="dropdown-item" asp-controller="Client" asp-action="">les encours</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="societariatDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Sesame</a>
                             <ul class="dropdown-menu" aria-labelledby="societariatDropdown">
-                                <li><a class="dropdown-item" asp-controller="Client" asp-action="Index">les encours</a></li>
+                                <li><a class="dropdown-item" asp-controller="Client" asp-action="">les encours</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
@@ -85,8 +88,9 @@
             @RenderBody()
         </main>
     </div>
-
+    
     <footer class="border-top footer text-muted">
+
         <div class="container">
             &copy; 2025 - Requeteur.Amplitude - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>

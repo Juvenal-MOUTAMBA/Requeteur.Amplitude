@@ -1,6 +1,17 @@
 ﻿@model Agence
-
+@{
+    ViewData["Title"] = "Détails Agence";
+}
 <h2>Détails de l'agence</h2>
 
-<p><strong>Code : </strong>@Model.AGE</p>
-<p><strong>Libellé : </strong>@Model.LIB</p>
+<table class="table table-bordered table-striped">
+    <tbody>
+        <tr><th>CodAge</th><td>@Model.AGE</td></tr>
+        <tr><th>IDClient</th><td>@Model.LIB</td></tr>
+    </tbody>
+</table>
+<div class="mt-4">
+    <a class="btn btn-secondary" asp-action="Index">
+        <i class="bi bi-arrow-left"></i> Retour à la liste
+    </a>
+</div>

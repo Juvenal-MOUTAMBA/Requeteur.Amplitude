@@ -3,8 +3,10 @@
 @{  
     ViewData["Title"] = "Clients";  
 }  
+<h1></h1>
+<h1></h1>
 <div class="d-flex justify-content-between align-items-center mb-3">
-    <h1 class="h3 mb-0">Liste des clients</h1>
+    <h1 class="h3 mb-0">Liste des clients</h1>    
     <div class="d-flex gap-2">
         @* <a class="btn btn-primary" asp-action="Create"><i class="bi bi-plus"></i> Nouveau client</a> *@
         <a class="btn btn-primary" asp-controller="Client" asp-action="Export"><i class="bi bi-download"></i> Exporter</a>
@@ -67,7 +69,7 @@
                     <td>@clt.DateDeMission</td>
                     <td>
                         <a class="btn btn-sm btn-info" asp-action="Details" asp-route-id="@clt.IdClient"><i class="bi bi-eye"></i></a>
-                        <a class="btn btn-sm btn-warning" asp-action="Edit" asp-route-id="@clt.IdClient"><i class="bi bi-pencil"></i></a>
+                        <a class="btn btn-sm btn-warning" asp-action="" asp-route-id="@clt.IdClient"><i class="bi bi-pencil"></i></a>
                         @* <a class="btn btn-sm btn-danger" asp-action="Delete" asp-route-id="@clt.IdClient"><i class="bi bi-trash"></i></a> *@
                     </td>
                 </tr>

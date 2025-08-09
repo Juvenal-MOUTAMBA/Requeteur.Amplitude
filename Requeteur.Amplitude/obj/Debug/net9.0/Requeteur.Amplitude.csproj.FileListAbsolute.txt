@@ -2086,3 +2086,11 @@ D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ExcelNumberF
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\RBush.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\SixLabors.Fonts.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.IO.Packaging.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ga5enrmwa7-8c6joi3n26.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\wwwroot\template\vendor\fontawesome-free\package.json
