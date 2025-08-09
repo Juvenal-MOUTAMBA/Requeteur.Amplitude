@@ -2094,3 +2094,31 @@ D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.runtimeconfig.json
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\wwwroot\template\vendor\fontawesome-free\package.json

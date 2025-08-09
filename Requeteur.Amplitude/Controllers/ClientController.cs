@@ -93,5 +93,21 @@ namespace Requeteur.Amplitude.Controllers
             }
             return View(clt);
         }
+
+        public IActionResult Search(string search)
+        {
+            var agenceLib = HttpContext.Session.GetString("AgenceLib");
+            var agence = _agences.GetAll().FirstOrDefault(x => x.LIB == agenceLib);
+            if (string.IsNullOrEmpty(search))
+            {
+                return RedirectToAction("Index");
+            }
+            var clients = _client.Client_By_Search(agence, search);
+            if (clients == null)
+            {
+                return View("Index", new List<Client> ());
+            }
+            return View("Index",clients);
+        }
     }
 }

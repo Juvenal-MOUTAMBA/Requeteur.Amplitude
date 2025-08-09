@@ -18,9 +18,11 @@
         <input type="text"  
                name="search"  
                class="form-control"  
+               style="text-transform: uppercase;"
                placeholder="Rechercher un client..."  
-               value="@HttpContextAccessor.HttpContext.Request.Query["search"]" />  
-        <button class="btn btn-outline-secondary" type="submit"><i class="bi bi-search"></i> Rechercher</button>  
+               value="@HttpContextAccessor.HttpContext.Request.Query["search"]" 
+               oninput="this.value = this.value.toUpperCase();"/>  
+        <button class="btn btn-outline-secondary" type="submit" asp-controller="Client" asp-action="Search"><i class="bi bi-search"></i> Rechercher</button>  
     </div>  
 </form>  
 
@@ -32,7 +34,7 @@
                 <th style="min-width: 120px;">IDClient</th>
                 <th style="min-width: 120px;">NumeroMembre</th>
                 <th style="min-width: 120px;">TypeClient</th>
-                <th style="min-width: 120px;">Nom</th>
+                <th style="min-width: 200px;">Nom</th>
                 <th style="min-width: 120px;">Prénom</th>
                 <th style="min-width: 150px;">RaisonSociale</th>
                 <th style="min-width: 100px;">Sigle</th>
@@ -47,7 +49,7 @@
                 <th style="min-width: 130px;">Actions</th>
             </tr>
         </thead>
-        <tbody>
+        <tbody>            
             @foreach (var clt in Model)
             {
                 <tr>

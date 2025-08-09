@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projets\\Amplitude.Requeteur\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\data\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\data\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|d:\\projets\\amplitude.requeteur\\requeteur.amplitude\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0356C19D-816E-4EA5-BF86-257E0D4DE934}|Requeteur.Amplitude\\Requeteur.Amplitude.csproj|solutionrelative:requeteur.amplitude\\views\\client\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Data\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Data\\ClientRepository.cs",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Data\\ClientRepository.cs",
+              "RelativeToolTip": "Requeteur.Amplitude\\Data\\ClientRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:32:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Requeteur.Amplitude\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:32:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Client\\Index.cshtml",
+              "RelativeDocumentMoniker": "Requeteur.Amplitude\\Views\\Client\\Index.cshtml",
+              "ToolTip": "D:\\Projets\\Amplitude.Requeteur\\Requeteur.Amplitude\\Views\\Client\\Index.cshtml",
+              "RelativeToolTip": "Requeteur.Amplitude\\Views\\Client\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAWwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T12:31:46.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
