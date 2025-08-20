@@ -39,11 +39,6 @@ namespace Requeteur.Amplitude.Controllers
             }
 
             return RedirectToAction("Index");
-            //if (!string.IsNullOrEmpty(AGE))
-            //{
-            //    HttpContext.Session.SetString("Agence", AGE);
-            //}
-            //return RedirectToAction("Index");
         }
 
         [HttpPost]
