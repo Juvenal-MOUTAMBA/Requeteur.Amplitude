@@ -64,8 +64,15 @@
                                 <li><a class="dropdown-item" >Gestion des oppositions</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item">
+                        @* <li class="nav-item">
                             <a class="nav-link" asp-controller="Agence" asp-action="Index">Agences</a>
+                        </li> *@
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="societariatDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Paramétrage</a>
+                            <ul class="dropdown-menu" aria-labelledby="societariatDropdown">
+                                <li><a class="dropdown-item" asp-controller="Agence" asp-action="Index">Agence</a></li>
+                                <li><a class="dropdown-item" asp-controller="Profil" asp-action="Index">Profil</a></li>
+                            </ul>
                         </li>
                     </ul>
                     <ul class="navbar-nav">
