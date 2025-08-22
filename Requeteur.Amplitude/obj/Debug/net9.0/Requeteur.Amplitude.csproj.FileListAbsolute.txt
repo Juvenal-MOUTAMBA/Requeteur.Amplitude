@@ -95,118 +95,63 @@ D:\Projets\Requeteur.Amplitude\Requeteur.Amplitude\Requeteur.Amplitude\obj\Debug
 D:\Projets\Requeteur.Amplitude\Requeteur.Amplitude\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.pdb
 D:\Projets\Requeteur.Amplitude\Requeteur.Amplitude\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.genruntimeconfig.cache
 D:\Projets\Requeteur.Amplitude\Requeteur.Amplitude\Requeteur.Amplitude\obj\Debug\net9.0\ref\Requeteur.Amplitude.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\appsettings.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\web.config
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\web.config
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\appsettings.Development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\appsettings.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\wwwroot\template\vendor\fontawesome-free\package.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.deps.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.runtimeconfig.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\wwwroot\template\vendor\fontawesome-free\package.json
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.staticwebassets.runtime.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.staticwebassets.endpoints.json
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.exe
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.deps.json
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.runtimeconfig.json
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Requeteur.Amplitude.pdb
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Azure.Core.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Azure.Identity.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ClosedXML.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ClosedXML.Parser.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Confluent.Kafka.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Dapper.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.csproj.AssemblyReference.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rpswa.dswa.cache.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.AssemblyInfoInputs.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.AssemblyInfo.cs
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.csproj.CoreCompileInputs.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.MvcApplicationPartsAssemblyInfo.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.RazorAssemblyInfo.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.RazorAssemblyInfo.cs
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.sourcelink.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rjimswa.dswa.cache.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\scopedcss\bundle\Requeteur.Amplitude.styles.css
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\scopedcss\projectbundle\Requeteur.Amplitude.bundle.scp.css
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\g71yje23wj-61n19gt1b8.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vkbc6s9py4-xtxxf3hu2r.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\pcaph4pjz4-bqjiyaj88i.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ap1sqfeqkg-c2jlpeoesf.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vc7v46nszn-erw9l3u2r3.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vmh8n8ags5-aexeepp0ev.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\6f4a4lljwf-d7shbmvgxk.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\cvd0hphw81-ausgxo2sd3.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vpjs112y4p-k8d9w2qqmf.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\i1em6xgcee-cosvhxvwiu.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\td2c1p7f63-ub07r2b239.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\irr02k0cia-fvhpjtyr6v.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\e48yb9lr8g-b7pk76d08c.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\eax0766hqv-fsbi9cje9m.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\fh5tkiln5z-rzd6atqjts.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\a9apavc7p1-ee0r1s7dh0.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7z9vsicf1g-dxx9fxp4il.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\61b3w2jxpj-jd9uben2k1.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\fqb1eqzn10-khv3u5hwcm.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\cuj9ug0ex3-r4e9w2rdcm.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\bodocadz5r-lcd1t2u6c8.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\u87uh217g9-c2oey78nd0.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4prsb31req-tdbxkamptv.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\dmm87srdfe-j5mq2jizvt.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4krwf44yvg-06098lyss8.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\mm02o72jcb-nvvlpmu67g.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\rynj7y26in-s35ty4nyc5.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\1nxncombpo-pj5nd1wqec.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\b2lqpjexc3-46ein0sx1k.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\58y9rdqma6-v0zj4ognzu.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\v6aqfczpty-37tfw0ft22.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\bu7g8vl0oa-hrwsygsryq.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ugqdb2800k-pk9g2wxc8p.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7n5gu2zyr2-ft3s53vfgj.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\v79zd8d0mz-6cfz1n2cew.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\714ndpumed-6pdc2jztkx.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vj7uswxr4u-493y06b0oq.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\f4ao5sy6q4-iovd86k7lj.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\bwhjj7t0b8-vr1egmr9el.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\blzggdg1vr-kbrnm935zg.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\r8o5u9b1tm-jj8uyg4cgr.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7512mv5961-y7v9cxd14o.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\dukp6piy1v-notf2xhcfb.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\avw9a0a90x-h1s4sie4z3.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\zk7bx0y1mu-63fj8s7r0e.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\1jgbvwykoo-0j3bgjxly4.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\07ph09ehst-47otxtyo56.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\414jrnozns-4v8eqarkd7.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ykjv6ynpl0-356vix0kms.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\w3a0np1bbg-83jwlth58m.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\mx5ndx9prs-mrlpezrjn3.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4hyuueuzqs-lzl9nlhx6b.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\iti8p5dyfe-ag7o75518u.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\9b9xl5e3w4-x0q3zqp4vz.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7xfouoc0ra-0i3buxo5is.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\xl7lrl9qla-o1o13a6vjx.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\k9u9nqbyv9-ttgo8qnofa.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\f16ix4btnq-2z0ns9nrw6.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4eairum080-muycvpuwrr.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\t54jdlmqdz-87fc7y1x7t.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\tthbl1rdg6-mlv21k5csn.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\uzoawpv6z7-93gjt06gzs.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\swiiqomhtk-93gjt06gzs.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.build.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.build.json.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.development.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteu.2680CEB9.Up2Date
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\refint\Requeteur.Amplitude.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.pdb
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.genruntimeconfig.cache
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\ref\Requeteur.Amplitude.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ExcelNumberFormat.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Humanizer.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Build.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Build.Framework.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
@@ -219,10 +164,26 @@ D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Co
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
@@ -241,13 +202,26 @@ D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\NuGet.Packag
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\NuGet.ProjectModel.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\NuGet.Protocol.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\NuGet.Versioning.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\RBush.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\SixLabors.Fonts.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.ClientModel.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.CodeDom.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Composition.AttributedModel.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Composition.Convention.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Composition.Hosting.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Composition.Runtime.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.IO.Packaging.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Memory.Data.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\af\Humanizer.resources.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ar\Humanizer.resources.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\az\Humanizer.resources.dll
@@ -387,7 +361,133 @@ D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ru\Microsoft
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\linux-arm64\native\librdkafka.so
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\linux-x64\native\alpine-librdkafka.so
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\linux-x64\native\centos8-librdkafka.so
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\linux-x64\native\librdkafka.so
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\osx-arm64\native\librdkafka.dylib
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\osx-x64\native\librdkafka.dylib
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\libcrypto-3-x64.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\libcurl.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\librdkafka.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\librdkafkacpp.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\libssl-3-x64.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\msvcp140.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\vcruntime140.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\zlib1.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\zstd.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\libcrypto-3.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\libcurl.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\librdkafka.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\librdkafkacpp.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\libssl-3.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\msvcp140.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\vcruntime140.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\zlib1.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\zstd.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.csproj.AssemblyReference.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.AssemblyInfoInputs.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.AssemblyInfo.cs
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.csproj.CoreCompileInputs.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.MvcApplicationPartsAssemblyInfo.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.RazorAssemblyInfo.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.RazorAssemblyInfo.cs
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.sourcelink.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\scopedcss\bundle\Requeteur.Amplitude.styles.css
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\scopedcss\projectbundle\Requeteur.Amplitude.bundle.scp.css
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\6bqfrksvai-x4y5bhhsr6.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\g71yje23wj-61n19gt1b8.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ga5enrmwa7-8c6joi3n26.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vkbc6s9py4-xtxxf3hu2r.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\pcaph4pjz4-bqjiyaj88i.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ap1sqfeqkg-c2jlpeoesf.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vc7v46nszn-erw9l3u2r3.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vmh8n8ags5-aexeepp0ev.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\6f4a4lljwf-d7shbmvgxk.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\cvd0hphw81-ausgxo2sd3.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vpjs112y4p-k8d9w2qqmf.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\i1em6xgcee-cosvhxvwiu.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\td2c1p7f63-ub07r2b239.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\irr02k0cia-fvhpjtyr6v.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\e48yb9lr8g-b7pk76d08c.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\eax0766hqv-fsbi9cje9m.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\fh5tkiln5z-rzd6atqjts.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\a9apavc7p1-ee0r1s7dh0.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7z9vsicf1g-dxx9fxp4il.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\61b3w2jxpj-jd9uben2k1.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\fqb1eqzn10-khv3u5hwcm.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\cuj9ug0ex3-r4e9w2rdcm.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\bodocadz5r-lcd1t2u6c8.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\u87uh217g9-c2oey78nd0.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4prsb31req-tdbxkamptv.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\dmm87srdfe-j5mq2jizvt.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4krwf44yvg-06098lyss8.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\mm02o72jcb-nvvlpmu67g.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\rynj7y26in-s35ty4nyc5.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\1nxncombpo-pj5nd1wqec.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\b2lqpjexc3-46ein0sx1k.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\58y9rdqma6-v0zj4ognzu.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\v6aqfczpty-37tfw0ft22.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\bu7g8vl0oa-hrwsygsryq.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ugqdb2800k-pk9g2wxc8p.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7n5gu2zyr2-ft3s53vfgj.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\v79zd8d0mz-6cfz1n2cew.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\714ndpumed-6pdc2jztkx.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\vj7uswxr4u-493y06b0oq.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\f4ao5sy6q4-iovd86k7lj.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\bwhjj7t0b8-vr1egmr9el.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\blzggdg1vr-kbrnm935zg.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\r8o5u9b1tm-jj8uyg4cgr.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7512mv5961-y7v9cxd14o.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\dukp6piy1v-notf2xhcfb.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\avw9a0a90x-h1s4sie4z3.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\zk7bx0y1mu-63fj8s7r0e.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\1jgbvwykoo-0j3bgjxly4.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\07ph09ehst-47otxtyo56.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\414jrnozns-4v8eqarkd7.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ykjv6ynpl0-356vix0kms.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\w3a0np1bbg-83jwlth58m.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\mx5ndx9prs-mrlpezrjn3.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4hyuueuzqs-lzl9nlhx6b.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\iti8p5dyfe-ag7o75518u.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\9b9xl5e3w4-x0q3zqp4vz.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\7xfouoc0ra-0i3buxo5is.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\xl7lrl9qla-o1o13a6vjx.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\k9u9nqbyv9-ttgo8qnofa.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\f16ix4btnq-2z0ns9nrw6.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\4eairum080-muycvpuwrr.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\t54jdlmqdz-87fc7y1x7t.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\tthbl1rdg6-mlv21k5csn.gz
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\9r26n4zucl-r3unjvhb45.gz
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\e2czol6g8u-02037ac2e4.gz
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\2th65wz4l0-40226ad91u.gz
@@ -2078,91 +2178,16 @@ D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\s
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\mxko58e9ly-33z6q9z31h.gz
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\85pmfdt70u-rszun4iext.gz
 D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\lw121xbqe8-l5o0ocrnlv.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ClosedXML.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ClosedXML.Parser.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ExcelNumberFormat.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\RBush.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\SixLabors.Fonts.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.IO.Packaging.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\ga5enrmwa7-8c6joi3n26.gz
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\web.config
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\appsettings.Development.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\appsettings.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.deps.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.runtimeconfig.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\wwwroot\template\vendor\fontawesome-free\package.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\web.config
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\web.config
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\appsettings.Development.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\appsettings.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.deps.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\appsettings.Development.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\appsettings.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.deps.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\web.config
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\web.config
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\appsettings.Development.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\appsettings.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\appsettings.Development.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\appsettings.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.deps.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.runtimeconfig.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\Requeteur.Amplitude.staticwebassets.endpoints.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Publication - Copie\wwwroot\template\vendor\fontawesome-free\package.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.deps.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.runtimeconfig.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\Requeteur.Amplitude.staticwebassets.endpoints.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Publication\Publication\wwwroot\template\vendor\fontawesome-free\package.json
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Azure.Core.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Azure.Identity.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Identity.Client.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.ClientModel.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Memory.Data.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
-D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\uzoawpv6z7-93gjt06gzs.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\compressed\swiiqomhtk-93gjt06gzs.gz
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.build.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.development.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteu.2680CEB9.Up2Date
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\refint\Requeteur.Amplitude.dll
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.pdb
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\Requeteur.Amplitude.genruntimeconfig.cache
+D:\Projets\Amplitude.Requeteur\Requeteur.Amplitude\obj\Debug\net9.0\ref\Requeteur.Amplitude.dll

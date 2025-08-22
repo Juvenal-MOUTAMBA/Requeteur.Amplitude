@@ -47,10 +47,6 @@ namespace Requeteur.Amplitude.Controllers
             HttpContext.Session.Clear();
             return RedirectToAction("Index");
         }
-        //public IActionResult Index()
-        //{
-        //    return View();
-        //}
 
         public IActionResult Privacy()
         {
